@@ -1,1 +1,1 @@
-# Ra-unarska-grafika-Pendulum-projekat
+# Racunarska-grafika-Pendulum-projekat
